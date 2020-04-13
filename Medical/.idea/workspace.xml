@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94a8b706-5054-49f7-908d-c4c75e49c4c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aQF3OWyXNAInlpZwAg3F4tFKE1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sso-oauth-server/src/main/java/cn/pro/mapper" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.pro" />
+      <recent name="cn.pro.login" />
+      <recent name="cn.pro.login.controller" />
+      <recent name="cn.pro.config.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaideaWorks\Medical\sso-oauth-server\src\main\java\cn\pro\mapper" />
+      <recent name="D:\JavaideaWorks\Medical\sso-oauth-login\src\main\resources" />
+      <recent name="D:\JavaideaWorks\Medical\sso-oauth-server\src\main\resources" />
+      <recent name="D:\JavaideaWorks\Medical\sso-oauth-server\src\main\java\cn\pro\service" />
+      <recent name="D:\JavaideaWorks\Medical\sso-oauth-server\src\main\java\cn\pro\entity" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Apps">
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Medical" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.pro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.pro.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Apps" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sso-oauth-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.pro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.pro.Apps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sso-oauth-login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.pro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.pro.LoginApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Apps" />
+        <item itemvalue="Spring Boot.LoginApp" />
+        <item itemvalue="Spring Boot.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94a8b706-5054-49f7-908d-c4c75e49c4c6" name="Default Changelist" comment="" />
+      <created>1586659710340</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586659710340</updated>
+      <workItem from="1586659714894" duration="877000" />
+      <workItem from="1586660606074" duration="30000" />
+      <workItem from="1586660701473" duration="82000" />
+      <workItem from="1586660801254" duration="13000" />
+      <workItem from="1586660848105" duration="125000" />
+      <workItem from="1586661008266" duration="279000" />
+      <workItem from="1586661297664" duration="20000" />
+      <workItem from="1586661342125" duration="5192000" />
+      <workItem from="1586740207618" duration="2750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1586664947085">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1586664947085" />
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586664586068">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586664586068" />
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1586660722893">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586660722893" />
+    <state width="1168" height="295" key="GridCell.Tab.0.bottom" timestamp="1586666545921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1168" height="295" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586666545921" />
+    <state width="1168" height="295" key="GridCell.Tab.0.center" timestamp="1586666545919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1168" height="295" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586666545919" />
+    <state width="1168" height="295" key="GridCell.Tab.0.left" timestamp="1586666545918">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1168" height="295" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586666545918" />
+    <state width="1168" height="295" key="GridCell.Tab.0.right" timestamp="1586666545920">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1168" height="295" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586666545920" />
+    <state width="1168" height="295" key="GridCell.Tab.1.bottom" timestamp="1586666545923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1168" height="295" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586666545923" />
+    <state width="1168" height="295" key="GridCell.Tab.1.center" timestamp="1586666545922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1168" height="295" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586666545922" />
+    <state width="1168" height="295" key="GridCell.Tab.1.left" timestamp="1586666545921">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1168" height="295" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586666545921" />
+    <state width="1168" height="295" key="GridCell.Tab.1.right" timestamp="1586666545922">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1168" height="295" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586666545922" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1586661316956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586661316956" />
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1586740221808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="375" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586740221808" />
+    <state x="87" y="107" key="new project wizard" timestamp="1586662382963">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="87" y="107" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586662382963" />
+  </component>
+</project>
